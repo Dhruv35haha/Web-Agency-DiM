@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.xml-sitemaps.com/download/web-agency-di-m.vercel.app-ee97add32/sitemap.xml?view=1
+
